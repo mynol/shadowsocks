@@ -1,2 +1,2 @@
 ### install shadowsocks server ###
-    bash <(cat install-shadowsocks.sh)
+    bash <(curl -s https://raw.githubusercontent.com/mynol/shadowsocks/master/install-shadowsocks.sh)
